@@ -1,6 +1,5 @@
 <script>
-  import Day2 from "./components/Day2/Day2.svelte";
-  import Text from "./components/Day2/Text.svelte";
+  import RahulPage from "./components/RahulPage/RahulPage.svelte";
 </script>
 
-<div>hiii</div>
+<RahulPage />
